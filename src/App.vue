@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Todos />
+    <Todos v-bind:todos="todos" />
   </div>
 </template>
 
@@ -48,5 +48,3 @@ body {
   line-height: 1.4;
 }
 </style>
-
-Continue to code.
