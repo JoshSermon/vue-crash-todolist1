@@ -72,7 +72,6 @@ body {
 
 .btn:hover{
   background: #666;
+  text-shadow: 2px 2px 2px;
 }
 </style>
-
-// Done
